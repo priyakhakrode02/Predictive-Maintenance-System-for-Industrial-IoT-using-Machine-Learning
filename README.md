@@ -14,7 +14,7 @@ A real-time monitoring system for industrial equipment that predicts failures be
 This dashboard monitors 5 industrial devices (motors, pumps, compressors, generators, turbines) and tracks their health in real-time. It shows temperature, vibration, pressure, current, and humidity readings, then calculates health scores and detects anomalies.
 
 ## 🌐 Live Demo
-👉 You can see the dashboard in action at: https://iot-predictive-maintenance-system.streamlit.app/
+👉 You can see the dashboard in action at: (https://iotsystempredictivemaintainencebypriyakhakrode.streamlit.app/)
 
 ## Key Features
 
