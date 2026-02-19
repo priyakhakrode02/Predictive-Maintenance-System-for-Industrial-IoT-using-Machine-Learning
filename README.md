@@ -5,10 +5,6 @@
 ![Status](https://img.shields.io/badge/Status-Live-success.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
-A real-time industrial monitoring system that predicts equipment failures before they happen.
-
-Built with **Python and Streamlit**, this project simulates live IoT sensor data from industrial machines and applies health scoring and anomaly detection to prevent unexpected breakdowns.
-
 # IoT Predictive Maintenance Dashboard
 
 A real-time monitoring system for industrial equipment that predicts failures before they happen. Built with Python and Streamlit, it simulates sensor data from motors, pumps, compressors, and other industrial devices.
@@ -16,6 +12,9 @@ A real-time monitoring system for industrial equipment that predicts failures be
 ## What This Project Does
 
 This dashboard monitors 5 industrial devices (motors, pumps, compressors, generators, turbines) and tracks their health in real-time. It shows temperature, vibration, pressure, current, and humidity readings, then calculates health scores and detects anomalies.
+
+## 🌐 Live Demo
+👉 You can see the dashboard in action at: https://iot-predictive-maintenance-system.streamlit.app/
 
 ## Key Features
 
@@ -86,18 +85,27 @@ iot-predictive-maintenance/
     └── config.yaml
 ```
 
-## Live Demo
+## 🌐 Live Demo
 
 You can see the dashboard in action at: https://iot-predictive-maintenance-system.streamlit.app/
 
 ## Features in Detail
 
-- **Real-time Data** - Simulates sensor readings with realistic patterns
-- **Health Monitoring** - Calculates device health from sensor data
-- **Anomaly Detection** - Finds unusual patterns that need attention
-- **Interactive Charts** - Live charts showing sensor trends
-- **Device Status** - Shows current status of all 5 devices
-- **Maintenance Alerts** - Recommends when devices need service
+- **🚀Real-time Data** - Simulates sensor readings with realistic patterns
+- **📳Health Monitoring** - Calculates device health from sensor data
+- **🚨Anomaly Detection** - Finds unusual patterns that need attention
+- **📈Interactive Charts** - Live charts showing sensor trends
+- **📊Device Status** - Shows current status of all 5 devices
+- **🔔Maintenance Alerts** - Recommends when devices need service
+
+It continuously tracks:
+
+- 🌡 Temperature  
+- 📳 Vibration  
+- 🔵 Pressure  
+- 🔌 Current  
+- 💨 Humidity  
+
 
 ## Deployment
 
