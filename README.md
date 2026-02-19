@@ -41,8 +41,7 @@ This dashboard monitors 5 industrial devices (motors, pumps, compressors, genera
 
 1. Clone the repository
 ```bash
-git clone https://github.com/Prasad777777/Predictive-Maintenance-System-/
-cd Predictive-Maintenance-System-
+git clone (https://github.com/priyakhakrode02/Predictive-Maintenance-System-for-Industrial-IoT-using-Machine-Learning)
 ```
 
 2. Install dependencies
