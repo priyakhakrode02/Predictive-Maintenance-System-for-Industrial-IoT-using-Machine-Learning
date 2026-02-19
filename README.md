@@ -49,22 +49,22 @@ This dashboard monitors 5 industrial devices (motors, pumps, compressors, genera
 
 ## Getting Started
 
-1. Clone the repository
+1️⃣. Clone the repository
 ```bash
 git clone (https://github.com/priyakhakrode02/Predictive-Maintenance-System-for-Industrial-IoT-using-Machine-Learning)
 ```
 
-2. Install dependencies
+2️⃣. Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-3. Run the dashboard
+3️⃣. Run the dashboard
 ```bash
 streamlit run app.py
 ```
 
-4. Open your browser to `http://localhost:8501`
+4️⃣. Open your browser to `http://localhost:8501`
 
 ## Project Structure
 
