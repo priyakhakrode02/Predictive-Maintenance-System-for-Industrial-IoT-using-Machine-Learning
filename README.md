@@ -1,3 +1,14 @@
+# 🚀 IoT Predictive Maintenance Dashboard
+
+![Python](https://img.shields.io/badge/Python-3.13+-blue.svg)
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red.svg)
+![Status](https://img.shields.io/badge/Status-Live-success.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+
+A real-time industrial monitoring system that predicts equipment failures before they happen.
+
+Built with **Python and Streamlit**, this project simulates live IoT sensor data from industrial machines and applies health scoring and anomaly detection to prevent unexpected breakdowns.
+
 # IoT Predictive Maintenance Dashboard
 
 A real-time monitoring system for industrial equipment that predicts failures before they happen. Built with Python and Streamlit, it simulates sensor data from motors, pumps, compressors, and other industrial devices.
